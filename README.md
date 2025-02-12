@@ -1,4 +1,4 @@
-# servomotor
+# Servomotor
 
 ## Link do Vídeo:
 
