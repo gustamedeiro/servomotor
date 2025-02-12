@@ -1,7 +1,7 @@
 # Servomotor
 
 ## Link do Vídeo:
-
+https://youtu.be/S5JNoZW1og0?si=z03-QOj0xEQ5z6gu
 
 ## Atividade: Controle de servomotor por PWM. 
 
