@@ -1,9 +1,9 @@
-## servomotor
+# servomotor
 
-# Link do Vídeo:
+## Link do Vídeo:
 
 
-# Atividade: Controle de servomotor por PWM. 
+## Atividade: Controle de servomotor por PWM. 
 
 Com o emprego do módulo PWM (do inglês, Pulse Width Modulation), presente no microcontrolador RP2040, projete um sistema com a ferramenta Pico SDK para simular o controle do ângulo de um servomotor. Esta simulação contemplará o motor micro servo padrão, presente no simulador de eletrônica online Wokwi. Para condução desta prática, será necessário simular os componentes listados abaixo.
 
@@ -11,7 +11,7 @@ Com o emprego do módulo PWM (do inglês, Pulse Width Modulation), presente no m
 
 2) Servomotor – motor micro servo padrão – Wokwi.
 
-# Os requisitos para a realização desta atividade são:
+## Os requisitos para a realização desta atividade são:
 
 1) Considerando a GPIO 22, defina a sua frequência de PWM para, aproximadamente, 50Hz – período de 20ms.
 
